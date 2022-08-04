@@ -1,2 +1,3 @@
 wel come to Git administration
+ modfiying sample file
 
