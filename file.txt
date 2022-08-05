@@ -1,5 +1,6 @@
 hello new file in master updated 
 created a new file to day in master branch
+ updsting to check git stash
  hello updated in dev branch
  created a new file to day in master branch
 
