@@ -1,4 +1,5 @@
 hello i am in master branch
+good morning now i am in dev branch
 wel come to Git administration
 modfiying sample file
 updating code in developement branch
