@@ -1,3 +1,4 @@
+hello i am in master branch
 wel come to Git administration
- modfiying sample file
+modfiying sample file
 updating code in developement branch
