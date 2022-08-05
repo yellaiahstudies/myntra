@@ -1,3 +1,5 @@
 hello new file in master updated 
 created a new file to day in master branch
+ hello updated in dev branch
+ created a new file to day in master branch
 
